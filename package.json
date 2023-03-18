@@ -1,0 +1,19 @@
+{
+  "name": "uniontown-pa-boards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btrott18/uniontown-pa-boards.git"
+  },
+  "author": "Brad Trott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btrott18/uniontown-pa-boards/issues"
+  },
+  "homepage": "https://github.com/btrott18/uniontown-pa-boards#readme"
+}
